@@ -65,7 +65,7 @@ while True:
         print('mask 착용')
         sleep_cnt += 1
     else:
-        speak('마스크를 착용 해주세요 씨발럼아')
+        speak('마스크를 착용 해주세요')
         print('mask 착용 안함')
         sleep_cnt=1
 
